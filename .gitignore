@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.data/
+codes.json
+
+.supabase/
+.env*
+public/admin.html
+
