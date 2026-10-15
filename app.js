@@ -175,7 +175,7 @@ const situations = [
 const allQuestions = [...questions, ...situations];
 
 const SUPABASE_URL = 'https://acmniseaiojchlpvgpkm.supabase.co';
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFjbW5pc2VhaW9qY2hscHZncGttIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE4NjQxNDgsImV4cCI6MjEwNzQ0MDE0OH0.meo7hS3tsR0a8ciNISWcBpt8pVIcKOEmAj_7L0YQ1U';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFjbW5pc2VhaW9qY2hscHZncGttIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE4NjQxNDgsImV4cCI6MjEwNzQ0MDE0OH0.meo7hS3tsR0a8ciNISsWcBpt8pVIcKOEmAj_7L0YQ1U';
 
 const state = {
   screen: 'home',
